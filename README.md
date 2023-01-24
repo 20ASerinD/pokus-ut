@@ -1,0 +1,2 @@
+# pokus-ut
+pokusovy repozitar
